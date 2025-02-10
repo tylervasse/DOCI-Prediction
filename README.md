@@ -18,11 +18,11 @@ Installation
 Usage
 - Clone this repository:
 	git clone https://github.com/tylervasse/DOCI-Prediction.git
-	cd repository-name
+	cd DOCI-Prediction
 - Install dependencies.
 - Open Jupyter Notebook:
 	jupyter notebook
 - Run the notebooks in order for proper workflow.
 
 Requirements
-- The required Python libraries are listed in requirements.txt. Ensure you have Python 3.x installed.
+- The required Python libraries are listed in requirements.txt. Ensure you have Python 3.1 installed.
