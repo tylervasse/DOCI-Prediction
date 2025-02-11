@@ -3,7 +3,7 @@ Tumor Imaging and Clustering Analysis
 
 Repository Contents:
 Imaging Processing and Tumor Mapping.ipynb
-- Performs image preprocessing and mapping of tumor regions.
+- Performs image preprocessing and mapping of tumor regions. Raw images have not been uploaded due to file size constraints. However, the resulting .pkl file can be found in the Releases tab.
 
 PCA and Clustering.ipynb
 - Applies Principal Component Analysis (PCA) and clustering techniques to analyze imaging data.
